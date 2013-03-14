@@ -1,4 +1,4 @@
-Android ListView add/remove cell with animation
+Android ListView add/remove cell and pull to refresh with animation
 
 Original **collapse** function is from http://stackoverflow.com/questions/4946295/android-expand-collapse-animation.
 
